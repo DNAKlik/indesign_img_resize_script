@@ -41,5 +41,6 @@ Images equations (outline):
 <math aid:pstyle="math"><img href="file:///math/bd751d42e38da75004bf2b0763fcd45c5b9706a0.144.000000.ffffff.1.png"/></math>
 ```
 Images symbols (inline)
-```xml<p aid:pstyle="p">Dit symbool is <symbol aid:cstyle="symbol"><img href="file:///symbol/ddd3f0e090a89c5599901051a8f8c3b3c21f5317.144.000000.ffffff.1.png"/></symbol> die in de vergelijking staat</p>
+```xml
+<p aid:pstyle="p">Dit symbool is <symbol aid:cstyle="symbol"><img href="file:///symbol/ddd3f0e090a89c5599901051a8f8c3b3c21f5317.144.000000.ffffff.1.png"/></symbol> die in de vergelijking staat</p>
 ```
