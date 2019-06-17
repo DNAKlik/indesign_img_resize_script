@@ -1,4 +1,4 @@
-# indesign script resize  images and apply object style
+# indesign script resize  images and apply object style from XML import
 Indesign script resize images from XML code and apply objectstyle based on XML
 
 //figure_frame.jsx  
