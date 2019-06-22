@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<story xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" name="DNA voorbeeld project"><block level="1" title="Preface"><h1 aid:pstyle="h1">Preface</h1> 
+<p aid:pstyle="p">Some extra inserted content with a large image.</p> 
+<figure aid:pstyle="figure"><img href="file:///images/DNAklik_home.png" class="img-responsive"/> 
+<figcaption aid:pstyle="figcaption">Example of a large image (outline)</figcaption></figure> 
+<p aid:pstyle="p">Websites with large collections of data objects face the problem of making all the objects accessible to the visitors. One way of overcoming this problem is the use of a tag or index system. The disadvantage of these methods are:</p><ul> 
+<li xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:pstyle="li">Editors have to provide tags or index properties to all the data objects</li> 
+<li xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:pstyle="li">The chosen index system can be different from what visitors desire.</li> 
+<li xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:pstyle="li">Usually inconsistencies arise in giving tags or index properties to the data objects</li></ul> 
+<p aid:pstyle="p">To overcome these problems a method has been developed for creating DNA profiles for each data object and for each user who visits the website. With this method you can:</p><ul> 
+<li xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:pstyle="li">Find similar data objects by comparing DNA profiles between objects</li> 
+<li xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:pstyle="li">Find users with common interest by comparing DNA profiles between users.</li> 
+<li xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:pstyle="li">Find data objects that might be interesting for a certain user.</li></ul> 
+<p aid:pstyle="p">This method can be used instead of a tag or index system but can also be combined with a tag or index system. It can even be used as a tool for the creation of an index or tag system. It can also be used as a personalization method.</p> 
+<figure aid:pstyle="figure"><img href="file:///images/color-navigation.png" width="300"/> 
+<figcaption aid:pstyle="figcaption">Example of image with width defined</figcaption></figure> 
+<p aid:pstyle="p">The method consist of two components. The first component is the DNA exchange method. The second component is match program.</p> 
+<figure aid:pstyle="figure"><img href="file:///images/cart_part1.png" class="img-responsive"/> 
+<figcaption aid:pstyle="figcaption">Example of a small image, outline</figcaption></figure></block><block level="1" title="Example equations"> 
+<h1 aid:pstyle="h1">Example equations</h1> 
+<p aid:pstyle="p">Hier een paar voorbeelden van formules gemaakt met de math module.</p> 
+<p aid:pstyle="p">Pythagoras:</p> 
+<math aid:pstyle="math"><img href="file:///math/bff57e594764e6204e61ed06d69a0ad123c8cfa3.144.000000.ffffff.1.png" width="50%"/></math> 
+<p aid:pstyle="p">Test square: </p> 
+<math aid:pstyle="math"><img href="file:///math/098e82211a7171cd8d75373d395bf985e60c7e70.144.000000.ffffff.1.png" width="50%"/></math> 
+<p aid:pstyle="p">Maxwell:</p> 
+<math aid:pstyle="math"><img href="file:///math/53a61f9a36eb5cf6de595a1cfbce91b34d6364e9.144.000000.ffffff.1.png" width="50%"/></math> 
+<p aid:pstyle="p">In deze vergelijking staat  voor de voor <symbol aid:cstyle="symbol"><img href="file:///symbol/64ad5c3fd8b95f9b07242bfef18ce338abec421f.144.000000.ffffff.1.png" width="50%"/></symbol> divergentie of rotatie, <symbol aid:cstyle="symbol"><img href="file:///symbol/e49e72ea546847b9ffafe5cde21131b76adcecba.144.000000.ffffff.1.png" width="50%"/></symbol> voor elektrische veldsterkte en  <symbol aid:cstyle="symbol"><img href="file:///symbol/41d0aa896e035702eeb74ca64e2f4730c58a6745.144.000000.ffffff.1.png" width="50%"/></symbol> voor magnetische inductie,</p> 
+<p aid:pstyle="p">Hospiatl rule:</p> 
+<math aid:pstyle="math"><img href="file:///math/b9fc531991bfacfb87c011b23d82077a44632d40.144.000000.ffffff.1.png" width="50%"/></math></block><block level="1" title="Results"> 
+<h1 aid:pstyle="h1">Results</h1> 
+<p aid:pstyle="p">I have tested this method with a system that contained 4096 colors. The colors were presented in a two dimensional coordinate system. Users where given the task to find a specific color. Each time the user selected a color new colors where presented to the user. The results demonstrates the power of this system. Not only matches between the same colors arose but similar colors like orange and red showed a higher match then for instance red with blue. This prototype program is attached in the folder of color_prototype.</p> 
+<p aid:pstyle="p"><img-left type="inline" aid:cstyle="img-left"><img href="file:///images/color-navigation.png" width="300"/> 
+<figcaption aid:pstyle="figcaption">Example of image with width defined</figcaption></img-left><img-left type="inline" aid:cstyle="img-left"><img href="file:///images/match-user-user-red.png" width="300"/> 
+<figcaption aid:pstyle="figcaption">Match user with other users</figcaption></img-left></p> 
+<p aid:pstyle="p"><img-left type="inline" aid:cstyle="img-left"><img href="file:///images/match-item-item-green.png" width="300"/> 
+<figcaption aid:pstyle="figcaption">Inline img dna match color green</figcaption></img-left><img-left type="inline" aid:cstyle="img-left"><img href="file:///images/match-user-items-red.png" width="300"/> 
+<figcaption aid:pstyle="figcaption">Inline img  match color red</figcaption></img-left></p> 
+<p aid:pstyle="p">I also tested this method with a combination of three combined museum collections. The DNA exchange was implemented on the websites delftsaardewerk.nl and on aziatischekeramiek.nl. Cookies were stored with DNA profiles for users that didn't login. Later on a suggestion system was tested using a combined profile of the user and the selected data object. The suggestions contained a lot similar data objects as the ones previous selected. The program with the results are added in the folder museum_collection.</p> 
+<p aid:pstyle="p"><img-left type="inline" aid:cstyle="img-left"><img href="file:///images/dna-mondriaan-bloeiende-boom.png" width="300"/> 
+<figcaption aid:pstyle="figcaption">Inline image, dna match</figcaption></img-left><img-left type="inline" aid:cstyle="img-left"><img href="file:///images/dna-plastiek-koe.png" width="300"/> 
+<figcaption aid:pstyle="figcaption">Inline img, match dna cow </figcaption></img-left></p></block><block level="1" title="Conclusions"> 
+<h1 aid:pstyle="h1">Conclusions</h1> 
+<p aid:pstyle="p">The method presented here could be used to personalize a website. It is a great way to explore a website with a large collection of items. The advantage over the methods that are typically used now are:</p><ul> 
+<li xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:pstyle="li">Less data is needed to make valuable suggestions</li> 
+<li xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:pstyle="li">The DNA profiles are AVG compliant because no specific data is collected for the user</li> 
+<li xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:pstyle="li">No systematic criteria is used, the navigation criteria are defined by the website visitors</li> 
+<li xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:pstyle="li">it is a dynamic system, so suggestions change in time</li></ul> 
+<h4 aid:pstyle="h4">Contact</h4> 
+<p aid:pstyle="p"><fig type="inline" aid:cstyle="fig"><img href="file:///images/avatar.png" width="100"/> 
+<figcaption aid:pstyle="figcaption">Inline with text, width is 100</figcaption></fig>This method is developed by Walter Mulder from DNAklik. It is tested as a prototype for automatic ordering of colors and for the expert sites from Gemeente Museum Den Haag. For Gemeente Museum Den Haag DNA profiles where generated during a period of half a year. Using this data a navigation method could be made combining the collections of aziatischekeramiek.nl, delftsaardewerk.nl en mondriaan.nl. The navigation method gives suggestions of interesting information based on the content selected by a user.</p></block></story>
