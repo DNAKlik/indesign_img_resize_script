@@ -1,19 +1,20 @@
 # indesign script resize  images and apply object style from XML import
 Indesign script resize images from XML code and apply objectstyle based on XML
 
-//figure_frame.jsx  
-//Author: Walter Mulder - DNAklik
+// figure_frame.jsx  
+// Author: Walter Mulder - DNAklik
+// www.dnaklik.nl
   
 /** 
-* @@@BUILDINFO@@@ figure_frame.jsx ! Version!  June 17 2019. 
-* This script is an extension off FitAnchorToColumn v3 by Vinny
+* @@@BUILDINFO@@@ figure_frame.jsx ! Version!  June 21 2019. 
+* This script is an extension off FitAnchorToColumn v8 by Vinny
 */
 //FitAnchorToColumn v3 
 //Transform anchored objects in order to rescale them to make them fit column width, keeping proportions. 
 //by Vinny 
 /** 
 * This script places  images referenced by impoted XML into object styles based on the XML code
-* Images are rescaled with the code from FitAnchorToColumn v3
+* Images are rescaled with the code from FitAnchorToColumn v8
 * The standaard maximum width is the width of the text column, but it can be overwritten if the width is assigned in the XML
 * The figure element with figcaption is placed in a surounding Textframe
 * A check is made to avoid changes to already processed images, for if the XML is relouded or updated by the link
