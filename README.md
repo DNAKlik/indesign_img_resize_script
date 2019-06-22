@@ -29,13 +29,13 @@ Outline image with caption:
 ```
 Inline image with caption, two images next to each other:
 ```xml
-<p aid:pstyle="p"><fig type="inline"><img href="file:///images/dna-plastiek-koe.png" width="310"/> 
-<figcaption aid:pstyle="figcaption">Match DNA profile with a cow</figcaption></fig><fig type="inline"><img href="file:///images/dna-mondriaan-bloeiende-boom.png" width="310"/> 
+<p aid:pstyle="p"><fig aid:cstyle="fig" type="inline"><img href="file:///images/dna-plastiek-koe.png" width="310"/> 
+<figcaption aid:pstyle="figcaption">Match DNA profile with a cow</figcaption></fig><fig aid:cstyle="fig" type="inline"><img href="file:///images/dna-mondriaan-bloeiende-boom.png" width="310"/> 
 <figcaption aid:pstyle="figcaption">Match DNA profile with a painting</figcaption></fig></p>
 ```
 Inline image, surrounded by text:
 ```xml
-<p aid:pstyle="p"><img-left type="inline"><img href="file:///images/avatar.png" width="100" height="100"/></img-left>This script is developed by Walter Mulder from DNAklik.</p>
+<p aid:pstyle="p"><img-left aid:cstyle="img-left" type="inline"><img href="file:///images/avatar.png" width="100" height="100"/></img-left>This script is developed by Walter Mulder from DNAklik.</p>
 ```
 Images equations (outline):
 ```xml
