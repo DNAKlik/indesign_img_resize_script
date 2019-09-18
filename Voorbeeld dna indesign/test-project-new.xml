@@ -1,8 +1,9 @@
 <?xml version="1.0"?>
 <story xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" name="DNA profiles public"><block level="1" title="Summary"><h1 aid:pstyle="h1">Summary</h1>
-<p aid:pstyle="p">A method is described for the creation and use of DNA profiles for a collection of data objects and for the users who make use of the system.</p>
+<p aid:pstyle="p">A method is described for the creation and use of DNA profiles for a collection of data objects and for the users who make use of the system. The system can be a website or a collection of websites, for instance a web shop or a website with a museum collection. A DNA profile consist of a number of unique identifiers called stamps. A stamp originates from a specific collection item. By comparing DNA profiles a match score can be obtained for the number of corresponding stamps.</p>
 <p aid:pstyle="p">En hier nieuwe content met een grote afbeelding die alles weer in de war gooit.</p>
-</block><block level="1" title="Preface">
+<figure aid:pstyle="figure"><img href="file:///images/DNAklik_home.png" class="img-responsive"/>
+<figcaption aid:pstyle="figcaption">De website van DNAklik</figcaption></figure></block><block level="1" title="Preface">
 <h1 aid:pstyle="h1">Preface</h1>
 <p aid:pstyle="p">Websites with large collections of data objects face the problem of making all the objects accessible to the visitors. One way of overcoming this problem is the use of a tag or index system. The disadvantage of these methods are:</p><ul> 
 <li xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:pstyle="li">Editors have to provide tags or index properties to all the data objects</li> 
@@ -36,4 +37,5 @@
 <li xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:pstyle="li">The DNA profiles are AVG compliant because no specific data is collected for the user</li> 
 <li xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:pstyle="li">No systematic criteria is used, the navigation criteria are defined by the website visitors</li> 
 <li xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:pstyle="li">it is a dynamic system, so suggestions change in time</li></ul>
-</block></story>
+<h4 aid:pstyle="h4">Contact</h4>
+<p aid:pstyle="p"><img-left type="inline" aid:cstyle="img-left"><img href="file:///images/avatar.png" width="100" height="100"/></img-left>This method is developed by Walter Mulder from DNAklik. It is tested as a prototype for automatic ordering of colors and for the expert sites from Gemeente Museum Den Haag. For Gemeente Museum Den Haag DNA profiles where generated during a period of half a year. Using this data a navigation method could be made combining the collections of aziatischekeramiek.nl, delftsaardewerk.nl en mondriaan.nl. The navigation method gives suggestions of interesting information based on the content selected by a user.</p></block></story>
