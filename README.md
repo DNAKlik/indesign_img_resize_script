@@ -39,9 +39,9 @@ Inline image, surrounded by text:
 ```
 Images equations (outline):
 ```xml
-<math aid:pstyle="math"><img href="file:///math/bd751d42e38da75004bf2b0763fcd45c5b9706a0.144.000000.ffffff.1.png"/></math>
+<math aid:pstyle="math"><Table aid:table="table" aid:trows="1" aid:tcols="2" aid5:tablestyle="equation"><Cell aid:table="cell" aid5:cellstyle="eq" aid:crows="1" aid:ccols="1" aid:ccolwidth="460.00"><eq><img href="file:///math/tex-57w2bC.pdf" width="144%"/></eq></Cell><Cell aid:table="cell" aid5:cellstyle="eq_nr" aid:crows="1" aid:ccols="1" aid:ccolwidth="60.00"><p_eq_nr aid:pstyle="p_eq_nr"/></Cell></Table></math>
 ```
 Images symbols (inline)
 ```xml
-<p aid:pstyle="p">Dit symbool is <symbol aid:cstyle="symbol"><img href="file:///symbol/ddd3f0e090a89c5599901051a8f8c3b3c21f5317.144.000000.ffffff.1.png"/></symbol> die in de vergelijking staat</p>
+<p aid:pstyle="p">Dit symbool is <symbol aid:cstyle="symbol"><img href="file:///symbol/tex-hDKnus.pdf" width="144%"/></symbol> die in de vergelijking staat</p>
 ```
